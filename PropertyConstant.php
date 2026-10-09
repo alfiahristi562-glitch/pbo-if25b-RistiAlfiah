@@ -42,4 +42,4 @@ echo "<br/>";
 echo "Pajak: ".$pajak . "%";
 echo "<br/>";
 
-echo "Total harga setelah pajak: Rp.".$total;
+echo "Total harga setelah pajak: Rp.".$total;// update nama 
